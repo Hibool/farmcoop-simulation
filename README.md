@@ -15,8 +15,8 @@ To run this application, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Hibool/agricultural-cooperative-simulation.git
-   cd agricultural-cooperative-simulation
+   git clone https://github.com/Hibool/farmcoop-simulation.git
+   cd farmcoop-simulation
    ```
 
 2. Ensure you are using Java 17. You can check your Java version by running:
